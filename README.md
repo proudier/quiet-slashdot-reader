@@ -4,7 +4,7 @@
 
 # What it does #
 
-*Quiet Slashdot Reader* remove the menu bars and the ads from the Slashdot home page, allowing a quieter reading experience.
+*Quiet Slashdot Reader* remove the menu bars and the ads from the Slashdot home page, allowing for a quieter reading experience.
 
 # How to install #
 
@@ -12,7 +12,7 @@ In Chrome:
 - go to the Extensions page
 - tick "developer mode"
 - click "Load unpacked extension...'
-- navigate to the directory in which you downloaded/checkout *Quiet Slashdot Reader*
+- navigate to the directory in which you downloaded/checked-out *Quiet Slashdot Reader*
 
 # How it does it #
 
