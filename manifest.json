@@ -1,0 +1,25 @@
+{
+	"manifest_version": 2,
+
+	"name": "Quiet Slashdot Reader",
+	"description": "Read Slashdot in a peacefull manner",
+	"version": "1.0",
+	"author": "Pierre ROUDIER",
+	"homepage_url": "http://github.com/proudier",
+
+	"background":{
+		"scripts": ["background.js"]
+	},
+
+	"browser_action": {
+		"default_icon": "icon.png"
+	},
+
+	"permissions": [
+		"tabs",
+		"webNavigation",
+		"http://slashdot.org/"
+	]
+}
+
+// convert to https://developer.chrome.com/extensions/event_pages
